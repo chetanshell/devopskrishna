@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Jenkins Successfully Deloyed via git poll scm...!</h2>
+<h2>Jenkins Successfully Deloyed...!</h2>
 </body>
 </html>
